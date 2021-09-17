@@ -1,8 +1,6 @@
 
 # GoFinances
 
-Code challenge by the GoStack Bootcamp.
-
 ## :black_nib: About the app
 
 GoFinances is an application for finances management, which shows the history of expenses and your current balance. It is also possible to import csv files to add new financial transactions.
